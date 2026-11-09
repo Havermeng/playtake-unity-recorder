@@ -1,0 +1,9 @@
+/dist/
+/AGENTS.md
+/CLAUDE.md
+__pycache__/
+*.pyc
+.DS_Store
+/AGENTS.md.meta
+/CLAUDE.md.meta
+/dist.meta

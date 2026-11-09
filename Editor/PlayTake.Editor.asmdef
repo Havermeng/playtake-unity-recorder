@@ -1,0 +1,11 @@
+{
+  "name": "PlayTake.Editor",
+  "rootNamespace": "PlayTake",
+  "references": [
+    "PlayTake.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

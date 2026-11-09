@@ -1,0 +1,6 @@
+{
+  "name": "PlayTake.Runtime",
+  "rootNamespace": "PlayTake",
+  "references": [],
+  "autoReferenced": false
+}

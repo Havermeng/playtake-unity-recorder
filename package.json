@@ -1,0 +1,21 @@
+{
+  "name": "com.havermeng.playtake",
+  "version": "1.0.0-preview.1",
+  "displayName": "PlayTake — Unity Video Recorder",
+  "description": "Record the Unity Game view to MP4 with NVENC or CPU H.264 and optional Unity audio. Windows Editor preview.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Havermeng",
+    "url": "https://github.com/Havermeng"
+  },
+  "license": "MIT",
+  "keywords": [
+    "recorder",
+    "video",
+    "nvenc",
+    "ffmpeg"
+  ],
+  "documentationUrl": "https://github.com/Havermeng/playtake-unity-recorder#readme",
+  "changelogUrl": "https://github.com/Havermeng/playtake-unity-recorder/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Havermeng/playtake-unity-recorder/blob/main/LICENSE"
+}
